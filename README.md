@@ -79,11 +79,8 @@ Full Stack Developer | React Developer | MERN Stack Enthusiast
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathosh-HUB&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathosh-HUB&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathosh-HUB&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathosh-HUB&layout=compact&theme=tokyonight" />
 </p>
 
 ---
