@@ -97,12 +97,7 @@ Full Stack Developer | React Developer | MERN Stack Enthusiast
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathosh-HUB&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prathosh-HUB&theme=tokyonight&no-frame=true&row=2&column=4)
 ---
 
 # 📈 Contribution Graph
