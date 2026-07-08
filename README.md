@@ -15,7 +15,7 @@
 - ⚛️ React.js Developer
 - 🚀 Interested in Full Stack Development
 - 📍 Tamil Nadu, India
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: prathoshprathosh831@gmail.com
 
 ---
 
@@ -45,7 +45,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/prathosh464)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO)
 
