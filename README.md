@@ -192,7 +192,7 @@ Full Stack Developer | React Developer | MERN Stack Enthusiast
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:prathoshprathosh831@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
