@@ -95,10 +95,11 @@ Full Stack Developer • React Developer • C Programmer
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prathosh-HUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=Prathosh-HUB&show_icons=true&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathosh-HUB&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Prathosh-HUB&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathosh-HUB&layout=compact&theme=tokyonight)
 </p>
 
 ---
