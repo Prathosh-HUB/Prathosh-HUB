@@ -34,7 +34,7 @@ Full Stack Developer | React Developer | MERN Stack Enthusiast
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,c,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgresql,nextjs,c,java,git,github,vscode" />
 </p>
 
 ---
