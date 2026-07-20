@@ -41,38 +41,49 @@ Full Stack Developer | React Developer | MERN Stack Enthusiast
 
 # 📂 Featured Projects
 
-## 🎓 Student Assessment & Performance Tracker
+## 🚀 MCQ Quiz & Assessment System
 
-- React.js
-- Node.js
-- MongoDB
-- JWT Authentication
+* Next.js (App Router)
+* PostgreSQL
+* Prisma ORM
+* Tailwind CSS
+
+Developed a full-stack online quiz application with timer-based assessments, automatic score calculation, PostgreSQL database integration, and detailed result tracking. Implemented server-side APIs using Next.js Route Handlers and Prisma ORM.
 
 ---
 
-## ☁️ Dynamic & Secure Resource Sharing in Multi Cloud
+## 💰 Personal Finance Tracker
 
-- Java
-- Secure Cloud Sharing
-- Resource Allocation
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* JWT Authentication
+
+Built a secure personal finance management application with user authentication, income and expense tracking, dashboard analytics, and CRUD operations using the MERN stack.
 
 ---
 
 ## 🛒 E-Commerce Website
 
-- React.js
-- JavaScript
-- Responsive UI
-- Product Management
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+Developed a responsive e-commerce platform featuring user authentication, product browsing, shopping cart, admin product management, and order management using the MERN stack.
 
 ---
 
-## 🌐 Portfolio Website
+## 🌐 Personal Portfolio Website
 
-- React.js
-- HTML
-- CSS
-- Responsive Design
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+
+Designed and developed a responsive portfolio website to showcase projects, technical skills, and contact information with a modern user interface optimized for desktop and mobile devices.
+
 
 ---
 
